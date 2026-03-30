@@ -7955,7 +7955,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "099c1e08-86db-4303-aa7d-7c6817a3454c")
 		(property "Reference" "#PWR01"
 			(at 173.99 63.5 0)
@@ -7967,7 +7966,7 @@
 			)
 		)
 		(property "Value" "+1V1"
-			(at 173.99 54.61 0)
+			(at 176.022 55.118 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9726,7 +9725,7 @@
 		(dnp no)
 		(uuid "6af610f5-4318-4dc3-be2d-2a46582566c9")
 		(property "Reference" "U1"
-			(at 169.926 150.368 0)
+			(at 170.688 150.368 0)
 			(effects
 				(font
 					(size 1.27 1.27)
